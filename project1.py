@@ -1,8 +1,6 @@
-
-from calendar import c
 import random
 
-#################FUNCTIONS DEFINED HERE###################
+################# FUNCTIONS DEFINED HERE ###################
 
 def createboard(a,b,c):
     '''
